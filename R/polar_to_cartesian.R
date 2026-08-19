@@ -10,10 +10,6 @@
 #'
 #' @author J. Antonio Guzmán Q.
 #'
-#' @importFrom data.table as.data.table
-#' @importFrom data.table .SD
-#' @importFrom data.table ':='
-#'
 #' @seealso \code{\link{cartesian_to_polar}}
 #'
 #' @examples

@@ -15,7 +15,6 @@
 #' @param parallel Logical, if \code{TRUE} it uses a parallel processing for the voxelization. \code{FALSE} as default.
 #' @param threads An \code{integer} >= 0 describing the number of threads to use. This need to be used if \code{parallel = TRUE}.
 #'
-#' @import data.table
 #' @importFrom parallel makeCluster
 #' @importFrom parallel stopCluster
 #' @importFrom doSNOW registerDoSNOW

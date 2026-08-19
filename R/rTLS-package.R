@@ -9,7 +9,7 @@
 #' artificial stands. rTLS is written using data.table and C++ language and in most of the
 #' functions it is posible to use parallel processing to speed-up the routines.
 
-#' @import data.table
+#' @importFrom data.table := .N .SD CJ as.data.table between data.table frank fread melt setnames
 "_PACKAGE"
 
 utils::globalVariables(c(".", "Target_count", "Voxel.size",

@@ -14,8 +14,6 @@
 #'
 #' @author J. Antonio Guzmán Q.
 #'
-#' @importFrom data.table as.data.table
-#'
 #' @examples
 #'
 #' data(pc_tree)

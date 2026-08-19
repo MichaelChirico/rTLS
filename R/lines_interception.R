@@ -18,7 +18,6 @@
 #'
 #' @seealso \code{\link{line_AABB}}, \code{\link{voxels}}
 #'
-#' @import data.table
 #'
 #' @examples
 #'

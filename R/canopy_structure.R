@@ -58,7 +58,6 @@
 #'
 #' @importFrom stats reshape
 #' @importFrom stats weighted.mean
-#' @import data.table
 #'
 #' @examples
 #'

@@ -44,7 +44,6 @@
 #' @author J. Antonio Guzmán Q.
 #'
 #' @importFrom sf st_polygon st_sfc st_area st_union st_difference st_intersection st_sample st_coordinates st_is_empty st_make_valid
-#' @importFrom data.table data.table fread
 #' @importFrom stats runif na.exclude
 #' @importFrom utils txtProgressBar setTxtProgressBar
 #' @importFrom grDevices chull

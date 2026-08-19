@@ -28,6 +28,7 @@ Useful links:
 
 Authors:
 \itemize{
+  \item J. Antonio Guzmán Q. \email{antguz06@gmail.com} (\href{https://orcid.org/0000-0002-0721-148X}{ORCID}) [thesis advisor, copyright holder]
   \item Ronny Hernandez \email{ronny.hernandezm@gmail.com} (\href{https://orcid.org/0000-0001-6225-7096}{ORCID})
 }
 

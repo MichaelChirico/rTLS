@@ -18,7 +18,6 @@
 #'
 #'
 #' @importFrom sf st_polygon st_sfc st_area st_is_longlat st_transform st_set_crs
-#' @importFrom data.table data.table
 #'
 #' @seealso \code{\link{circleRANSAC}}, \code{\link{trunk_volume}}
 #'

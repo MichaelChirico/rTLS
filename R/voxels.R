@@ -16,7 +16,6 @@
 #'
 #' @seealso \code{\link{voxels_counting}}, \code{\link{plot_voxels}}, \code{\link{summary_voxels}}
 #'
-#' @import data.table
 #'
 #' @examples
 #' data("pc_tree")

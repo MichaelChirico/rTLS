@@ -22,7 +22,6 @@
 #'
 #' @seealso \code{\link{lines_interception}}, \code{\link{voxels}},
 #'
-#' @import data.table
 #'
 #' @examples
 #'
